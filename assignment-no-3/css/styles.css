@@ -1,0 +1,437 @@
+<<<<<<< HEAD
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.va-center{
+    vertical-align: middle;
+    padding-top: 14px;
+}
+
+.saylani-green-bg{
+    background-color: #9bcc3b !important;
+}
+
+.saylani-grey-bg{
+    background-color: #f7f8fa !important;
+    color:#316dc3;
+}
+
+.sm-icons li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 15px;
+    font-size: 1em;
+}
+
+.top-buttons li{
+    display: inline;
+    list-style-type: none;
+}    
+
+.top-buttons li button{
+    display: inline;
+    font-size: 0.7em;
+    border-radius: 0;
+    padding:5px !important;
+    color:#316dc3;
+    border:1px solid #316dc3;
+  }
+
+.redBorder
+{
+    border:2px solid salmon  !important;
+}
+
+#topNavBar li a
+{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+#topNavBar li a:hover
+{
+    border-radius: 20px;
+    color: white !important;
+    background-color: #316dc3; 
+}
+
+.carousel-inner{
+    width:100%;
+    max-height: 500px !important;
+}
+
+.topM100
+{
+    position: relative;
+    top:-100px !important;
+}
+
+
+#topMarquee marquee 
+{
+    border-radius: 25px;
+    padding: 10px;
+    background-color: #316dc3;
+    color: white;
+    margin:10px;
+}
+
+#topMarquee a 
+{
+    color: yellowgreen;
+}
+
+.marqueeNews{
+    color:#00FF00;
+    margin-right: 10px;
+}
+
+#saylaniIntroduction h2, #saylaniWhatDoing h2, #saylaniMission h2, #saylaniImageGallery h2{
+    color: #316dc3;
+    text-transform: uppercase;
+}
+
+.greenTxt
+{
+    color: #9bcc3b !important;
+}
+
+.blueTxt
+{
+    color: #316dc3 !important;
+}
+
+.introText
+{
+    line-height: 24px;
+    color:#999;
+}
+
+.introText p{
+    padding:20px;
+    margin:0px !important;
+}
+
+#performance
+{
+    background-color: #316dc3; 
+    color: white;
+}
+
+.darker
+{
+    background-color: #004c71;
+}
+
+.performanceBox h1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    font-size: 42px  !important;
+}
+
+.performanceBox img
+{
+    height:40px;
+}
+
+.performanceBox p
+{
+    font-weight: bold;
+    font-size:18px;
+}
+
+.whatWeDoBox {
+    background-color: #FFF;
+    color: #316dc3; 
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    width:100% !important;
+    padding: 10px;
+
+}
+
+.whatWeDoBox img{
+    height:60px;
+}
+
+.whatWeDoBox:hover{
+    background-color: #9bcc3b;
+    transition: 0.6s ease; 
+}
+    
+#saylaniMission hr, footer hr{
+    width:50px;
+    border-top: 2px solid  #9bcc3b;
+    margin-top:0px !important;
+}
+
+.missionBox {
+    background-color: #f7f8fa;
+    border:1px solid #EEE;
+    color: #316dc3; 
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    width:100%;
+    padding: 20px;
+    /*margin:0px 15px 10px 15px !important;*/
+}
+
+.missionBox p{
+    display: inline;
+    margin-left:20px;
+}
+
+#saylaniMission marquee{
+    margin-top:15px;
+}
+
+.modal-img {
+    width:100%;
+}
+
+footer{
+    background-color: #25272e;
+}
+
+.footerContactInfo{
+    list-style-type: none;
+}
+
+.connectIcons
+{
+    background-color: #316dc3; 
+    color: white;
+    border-radius: 50%;
+    width:30px;
+    height:30px;
+    padding:3px;
+}
+
+.copyright{
+    background-color: #316dd9;
+}
+
+=======
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.va-center{
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 14px;
+    float: none;
+}
+
+.saylani-green-bg{
+    background-color: #9bcc3b !important;
+}
+
+.saylani-grey-bg{
+    background-color: #f7f8fa !important;
+    color:#316dc3;
+}
+
+.sm-icons li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 15px;
+    font-size: 1em;
+}
+
+.top-buttons li{
+    display: inline;
+    list-style-type: none;
+}    
+
+.top-buttons li button{
+    display: inline;
+    font-size: 0.7em;
+    border-radius: 0;
+    padding:5px !important;
+    color:#316dc3;
+    border:1px solid #316dc3;
+  }
+
+.redBorder
+{
+    border:2px solid salmon  !important;
+}
+
+#topNavBar li a
+{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+#topNavBar li a:hover
+{
+    border-radius: 20px;
+    color: white !important;
+    background-color: #316dc3; 
+}
+
+.carousel-inner{
+    width:100%;
+    max-height: 500px !important;
+}
+
+.topM100
+{
+    position: relative;
+    top:-100px !important;
+}
+
+
+#topMarquee marquee 
+{
+    border-radius: 25px;
+    padding: 10px;
+    background-color: #316dc3;
+    color: white;
+    margin:10px;
+}
+
+#topMarquee a 
+{
+    color: yellowgreen;
+}
+
+.marqueeNews{
+    color:#00FF00;
+    margin-right: 10px;
+}
+
+#saylaniIntroduction h2, #saylaniWhatDoing h2, #saylaniMission h2, #saylaniImageGallery h2{
+    color: #316dc3;
+    text-transform: uppercase;
+}
+
+.greenTxt
+{
+    color: #9bcc3b !important;
+}
+
+.blueTxt
+{
+    color: #316dc3 !important;
+}
+
+.introText
+{
+    line-height: 24px;
+    color:#999;
+}
+
+.introText p{
+    padding:20px;
+    margin:0px !important;
+}
+
+#performance
+{
+    background-color: #316dc3; 
+    color: white;
+}
+
+.performanceBox h1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    font-size: 42px  !important;
+}
+
+.performanceBox img
+{
+    height:40px;
+}
+
+.performanceBox p
+{
+    font-weight: bold;
+    font-size:18px;
+}
+
+.whatWeDoBox {
+    background-color: #FFF;
+    color: #316dc3; 
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    width:100%;
+    padding: 10px;
+
+}
+
+.whatWeDoBox img{
+    height:60px;
+}
+
+.whatWeDoBox:hover{
+    background-color: #9bcc3b; 
+}
+    
+#saylaniMission hr, footer hr{
+    width:50px;
+    border-top: 2px solid  #9bcc3b;
+    margin-top:0px !important;
+}
+
+.missionBox {
+    background-color: #f7f8fa;
+    border:1px solid #EEE;
+    color: #316dc3; 
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    width:100%;
+    padding: 20px;
+    margin:0px 15px 10px 15px !important;
+}
+
+.missionBox p{
+    display: inline;
+    margin-left:20px;
+}
+
+#saylaniMission marquee{
+    margin-top:15px;
+}
+
+.modal-img {
+    width:100%;
+}
+
+footer{
+    background-color: #25272e;
+}
+
+.footerContactInfo{
+    list-style-type: none;
+}
+
+.connectIcons
+{
+    background-color: #316dc3; 
+    color: white;
+    border-radius: 50%;
+    width:30px;
+    height:30px;
+    padding:3px;
+}
+
+.copyright{
+    background-color: #316dd9;
+}
+
+>>>>>>> cbca59d38297dc82269a303f10ff68627d5fea84
